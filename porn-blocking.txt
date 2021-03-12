@@ -1,0 +1,14 @@
+
+# list for blocking porn sites with Pi-hole#\
+#\
+www.xnxx.com\
+www.pornhub.com\
+www.pornsos.com\
+www.xvideos.com\
+hamster.com\
+www.youporn.com\
+www.iwank.tv\
+videos.aprnstories.com\
+www.alohatube.com\
+#
+}
